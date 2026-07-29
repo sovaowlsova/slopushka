@@ -1,0 +1,29 @@
+# Venv
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+logs/
+
+# Prompts
+prompts/*
+!prompts/system.example.txt
