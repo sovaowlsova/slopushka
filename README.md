@@ -8,7 +8,7 @@ Slopushka is a fun little project I did for personal use. This is an AI bot for 
 * ✅ Users can change AI settings, including: temperature, top_p, thinking level
 * ✅ Search command is implemented but unfortunately doesn't work due to the fact that Google search tool is a paid API option
 * ✅ All API keys are safely stored in the .env file
-* ## 🛠️ Tech stack
+## 🛠️ Tech stack
 * Python
 * Google AI studio
 * Discord py
